@@ -8,10 +8,17 @@ O desafio se consiste em criar um app que utilize o clique e/ou sensor de movime
 <img src="https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png">
 
 Conteúdo
+
 Libs react-native-shake e react-native-torch
+
 icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
+
 StyleSheet
+
 Hook useState
+
 Hook useEffect
+
 Add Listener to RNShake
+
 Lifecicly ReactJS
